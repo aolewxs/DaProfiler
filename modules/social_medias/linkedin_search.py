@@ -15,8 +15,8 @@ def linkedin_search(name,pren):
         pass
 
 def official_linkedin_search(name,pren):
-    username = ""
-    password = ""
+    username = "aolewxs"
+    password = "Ass228!@"
 
     if len(username) == 0:
         return None
